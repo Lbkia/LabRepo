@@ -18,7 +18,9 @@ namespace ConsoleApplication3
 
         static void g()
         {
-            
+            string s = "This a lab session to work with version control.";
+            Console.WriteLine(s);
+            Console.ReadLine();
         }
 
         static void f()
