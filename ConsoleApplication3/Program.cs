@@ -10,11 +10,13 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
 
         static void g()
         {
-            Console.WriteLine("Hello World!");
+            
         }
 
         static void f()
