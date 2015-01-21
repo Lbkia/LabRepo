@@ -13,16 +13,6 @@ namespace ConsoleApplication3
             Console.WriteLine("Hello World!");
             Console.WriteLine("This should work");
             Console.ReadLine();
-            
-        }
-
-        static void g()
-        {
-            
-        }
-
-        static void f()
-        {
 
         }
     }
