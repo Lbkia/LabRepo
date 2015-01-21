@@ -14,7 +14,7 @@ namespace ConsoleApplication3
 
         static void g()
         {
-
+            Console.WriteLine("Hello World!");
         }
 
         static void f()
