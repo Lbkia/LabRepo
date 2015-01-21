@@ -25,6 +25,10 @@ namespace ConsoleApplication3
 
         static void f()
         {
+            
+        }
+        static void h()
+        {
 
         }
     }
